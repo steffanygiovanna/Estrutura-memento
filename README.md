@@ -13,3 +13,7 @@
 
 ## Estado do ***Objeto***
 - O estado de objeto é uma situação, ele é definido pelos valores de seus atributos (são os valores de um atributo, de um objeto que define um estado que esse objeto se encontra).
+
+## Diagrama - Memento
+
+![Gof](./memento.png)
